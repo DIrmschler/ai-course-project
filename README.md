@@ -1,9 +1,13 @@
-## Summary
-This project demonstrates the potential of simple AI techniques for anomaly detection in industrial applications, specifically magnetic crack testing for forged components. Using simulated data and Python-based machine learning, the work explores methods like Isolation Forest and provides insights into their practical application.
+<!-- This is the markdown template for the final project of the Building AI course, 
+created by Reaktor Innovations and University of Helsinki. 
+Copy the template, paste it to your GitHub README and edit! -->
 
 # Automated Anomaly Detection in Magnetic Crack Testing
 
-This repository contains the translated work *"Automated Anomaly Detection in Magnetic Crack Testing: From Simulation to Practice"* by Dennis Irmschler, as part of the AI course project from the University of Helsinki.
+Final project for the Building AI course
+## Summary
+
+This project demonstrates the potential of simple AI techniques for anomaly detection in industrial applications, specifically magnetic crack testing for forged components. Using simulated data and Python-based machine learning, the work explores methods like Isolation Forest and provides insights into their practical application.
 
 
 ## Key Sections
