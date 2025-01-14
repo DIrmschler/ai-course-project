@@ -19,12 +19,14 @@ This project demonstrates the potential of simple AI techniques for anomaly dete
 - **Industrial Relevance**: Concepts for automating magnetic crack testing with AI.
 
 ## Files in this Repository
-- `Anomalienerkennung_translated_with_images.pdf`: Full English translation of the Projekt, including visual examples.
-- `code_example.py`: A Python script showcasing the core implementation of Isolation Forest (to be added if applicable).
+- `anomalydetection.pdf`: Full English translation of the Projekt, including visual examples.
+- `good_parts.py`: A Python script to generate Pictures without cracks.
+- `cracked_parts.py`: A Python script to generate Pictures with cracks.
+- `scanner.py`: A Python script to scan and analyse the files for cracks.
 
 ## How to Use
 1. Download the PDF to learn about the project details and findings.
-2. Use the example Python code as a starting point for similar applications in anomaly detection.
+2. Use the example Python codes as a starting point for similar applications in anomaly detection.
 
 ## License
 This work is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt the material for non-commercial purposes with proper attribution.
