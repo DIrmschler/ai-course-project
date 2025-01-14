@@ -2,7 +2,7 @@
 
 This repository contains the translated work *"Automated Anomaly Detection in Magnetic Crack Testing: From Simulation to Practice"* by Dennis Irmschler, as part of the AI course project from the University of Helsinki.
 
-## Description
+## Summary
 This project demonstrates the potential of simple AI techniques for anomaly detection in industrial applications, specifically magnetic crack testing for forged components. Using simulated data and Python-based machine learning, the work explores methods like Isolation Forest and provides insights into their practical application.
 
 ## Key Sections
